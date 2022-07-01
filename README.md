@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![linked-in-alt](https://user-images.githubusercontent.com/100497721/176936381-0362b4e1-f437-4d14-8177-ec0208f37af3.svg)
-![mysql-original-wordmark](https://user-images.githubusercontent.com/100497721/176936402-94a596bc-fddd-49ab-8f59-14a733d56247.svg)
-![jest](https://user-images.githubusercontent.com/100497721/176936410-f9789e40-4339-4652-9386-84e0a480bb2e.svg)
-
 
 <!--
 **danielj-84/danielj-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
