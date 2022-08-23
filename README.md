@@ -4,8 +4,8 @@
 <h4 align="justify"> Years ago, Geocities gave me the chance to create my own space in HTML and in the days of MySpace, I used CSS to announce to the world how cool I truly was! Although I initially pursued a career away from the screen, I never forgot the endless possibilities of code, transforming that youthful passion into an in-depth understanding of JavaScript, React, SASS, Node.js, MySQL, and a desire to keep learning.</h4>
 <h4 align="justify">Talk to me about VR, 3D animation (movies and games), reading (Cyberpunk and Sci-Fi are perennial favorites!), languages, ancient history and many other nerdy topics.</h4>
 <h3 align="left">Let's talk: </h3>
-<a href="https://linkedin.com/in/danielbutincode" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danielbutincode" height="50" width="50" /></a>
 <a href="mailto:danieljgarcia101@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" alt="danieljgarcia101@gmail.com" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/danielbutincode" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danielbutincode" height="50" width="50" /></a>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
