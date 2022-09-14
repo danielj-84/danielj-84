@@ -38,6 +38,8 @@
 <a href="https://threejs.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png" alt="three.js" width="50" height="50"/></a>
 </p>
 
+<p>***profile photo is a Dall-E creation : dinosaur using a macbook, cyberpunk, pink and purple </p>
+
 <!--
 **danielj-84/danielj-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
